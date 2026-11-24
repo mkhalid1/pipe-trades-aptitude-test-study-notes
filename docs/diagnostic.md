@@ -78,7 +78,7 @@ A. Q · B. S · C. U · D. N
 
 A. 0 · B. 4 · C. 6 · D. 8
 
-**D15.** A sheet of paper is folded in half once. One hole is punched through both layers. How many holes are there when it is unfolded?
+**D15.** A sheet of paper is folded in half once. One hole is punched through both layers, away from the fold. How many holes are there when it is unfolded?
 
 A. 1 · B. 2 · C. 3 · D. 4
 

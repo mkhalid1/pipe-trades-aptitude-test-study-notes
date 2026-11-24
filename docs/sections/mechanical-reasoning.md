@@ -128,7 +128,7 @@ A. higher · B. lower · C. the same height
 
 A. 30 rpm · B. 45 rpm · C. 60 rpm · D. 180 rpm
 
-**Item 12.** Four empty storage racks weigh the same. Which is hardest to tip over sideways?
+**Item 12.** Four empty storage racks weigh the same, with their weight spread evenly. Which is hardest to tip over sideways, across its width?
 
 A. 2 feet wide and 6 feet tall · B. 3 feet wide and 6 feet tall · C. 4 feet wide and 3 feet tall · D. 2 feet wide and 3 feet tall
 

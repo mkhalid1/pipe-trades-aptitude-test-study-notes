@@ -78,11 +78,11 @@ A. R · B. T · C. B · D. X
 
 A. North · B. West · C. South · D. South-west
 
-**Item 6.** A square sheet of paper is folded in half from left to right, then folded in half again from top to bottom, so it is a quarter of its original size. One hole is punched through all the layers. How many holes are there when the sheet is unfolded?
+**Item 6.** A square sheet of paper is folded in half from left to right, then folded in half again from top to bottom, so it is a quarter of its original size. One hole is punched through all the layers, near the middle of the folded square and away from every fold. How many holes are there when the sheet is unfolded?
 
 A. 1 · B. 2 · C. 4 · D. 8
 
-**Item 7.** A long strip of paper is folded in half from left to right, then folded in half again from left to right, so it is a quarter of its original length. One hole is punched through all the layers. When the strip is unfolded, the holes are:
+**Item 7.** A long strip of paper is folded in half from left to right, then folded in half again from left to right, so it is a quarter of its original length. One hole is punched through all the layers, away from the folds. When the strip is unfolded, the holes are:
 
 A. 4 holes in a single straight line · B. 4 holes in a square · C. 2 holes side by side · D. 8 holes in two rows
 
@@ -103,7 +103,7 @@ A. 6 · B. 9 · C. 13 · D. 14
 
 </details>
 
-**Item 9.** In the same stack of blocks from item 8, how many block tops can you see when you look straight down from directly above?
+**Item 9.** In the same stack of blocks from item 8, how many separate top faces of blocks can you see when you look straight down from directly above?
 
 A. 1 · B. 5 · C. 9 · D. 14
 
