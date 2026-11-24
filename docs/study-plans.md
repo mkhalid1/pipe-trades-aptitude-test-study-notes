@@ -11,9 +11,9 @@ If your local's test covers only some skills, for example a math-only exam, skip
 | Day | Focus | What to do |
 |---|---|---|
 | 1 | Baseline | Read the [test overview](test-overview.md) and confirm your local's test. Take the [diagnostic](diagnostic.md). Note your two weakest parts. |
-| 2 | Fractions and measurement | Read [arithmetic, fractions and measurement](sections/arithmetic-fractions-and-measurement.md). Do all 12 items with no calculator. Then write 10 fraction sums of your own, mixing eighths and sixteenths, and solve them. |
-| 3 | Algebra and formulas | Read [algebra and formulas](sections/algebra-and-formulas.md). Do all 12 items. Check every answer by substituting it back. |
-| 4 | Reading | Read [reading comprehension](sections/reading-comprehension.md). Do all 12 items, proving each answer with a sentence from the passage. |
+| 2 | Fractions and measurement | Read [arithmetic, fractions and measurement](sections/arithmetic-fractions-and-measurement.md). Do all 5 items with no calculator. Then write 10 fraction sums of your own, mixing eighths and sixteenths, and solve them. |
+| 3 | Algebra and formulas | Read [algebra and formulas](sections/algebra-and-formulas.md). Do all 5 items. Check every answer by substituting it back. |
+| 4 | Reading | Read [reading comprehension](sections/reading-comprehension.md). Do all 4 items, proving each answer with a sentence from the passage. |
 | 5 | Mechanical and spatial | Read [mechanical reasoning](sections/mechanical-reasoning.md) and [spatial reasoning](sections/spatial-reasoning.md). Learn the mechanical rules table. Fold a paper cube from a cross-shaped net. |
 | 6 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test). Score it by skill. Review every miss with the three questions below. |
 | 7 | Fix the weakest skill, then rest | Redo the items you missed this week without looking at the answers. Do 20 fresh items in your weakest skill. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |

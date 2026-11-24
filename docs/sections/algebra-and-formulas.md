@@ -46,104 +46,54 @@ Plan on about one minute per item. Two-equation items and rearranging items take
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from any local's test, publisher or prep site. Work them without a calculator unless an item says otherwise.
+These 5 items are original, written for these notes. They are not taken from any local's test, publisher or prep site. Work them without a calculator unless an item says otherwise.
 
 **Item 1.** Solve 4x + 9 = 37.
 
 A. 5 · B. 7 · C. 9 · D. 11.5
 
-**Item 2.** Solve x/3 − 2 = 5.
-
-A. 1 · B. 9 · C. 15 · D. 21
-
-**Item 3.** Water weighs about 62.4 pounds per cubic foot, so the weight W in pounds of water in a tank is W = 62.4 × V, where V is the volume in cubic feet. What is W when V = 5?
-
-A. 67.4 · B. 302 · C. 312 · D. 324
-
-**Item 4.** The area of a rectangle is A = L × W. Which formula gives W?
+**Item 2.** The area of a rectangle is A = L × W. Which formula gives W?
 
 A. W = A × L · B. W = A / L · C. W = L / A · D. W = A − L
 
-<details>
-<summary>Answers and explanations, items 1 to 4</summary>
-
-**Item 1: B, 7.** Subtract 9 from both sides: 4x = 28. Divide by 4: x = 7. Check: 4 × 7 + 9 = 37. *Why not D:* 11.5 comes from adding 9 instead of subtracting it (46 ÷ 4).
-
-**Item 2: D, 21.** Add 2 to both sides: x/3 = 7. Multiply both sides by 3: x = 21. Check: 21/3 − 2 = 7 − 2 = 5. *Why not B:* 9 comes from subtracting 2 from 5 instead of adding it, which gives x/3 = 3.
-
-**Item 3: C, 312.** 62.4 × 5: 60 × 5 = 300 and 2.4 × 5 = 12, so 312. *Why not A:* 67.4 is 62.4 + 5, an addition instead of a multiplication.
-
-**Item 4: B, W = A / L.** Divide both sides of A = L × W by L to leave W on its own. Check with numbers: if L = 4 and W = 3, A = 12, and 12 / 4 = 3.
-
-</details>
-
-**Item 5.** What is the value of 2a² − 3b when a = 3 and b = 4?
-
-A. 6 · B. 24 · C. 30 · D. 0
-
-**Item 6.** Which expression is the same as 5(2x − 3)?
-
-A. 10x − 3 · B. 7x − 8 · C. 10x − 15 · D. 10x + 15
-
-**Item 7.** x + y = 14 and x − y = 4. What is x?
+**Item 3.** x + y = 14 and x − y = 4. What is x?
 
 A. 5 · B. 9 · C. 10 · D. 18
 
-**Item 8.** Three brass couplings weigh 1.8 pounds in total. At the same weight each, how much do seven weigh?
-
-A. 3.6 lb · B. 4.2 lb · C. 5.4 lb · D. 12.6 lb
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: A, 6.** a² = 9, so 2a² = 18. 3b = 12. 18 − 12 = 6. *Why not C:* 30 comes from squaring 2a, giving 36, before subtracting.
-
-**Item 6: C, 10x − 15.** Multiply each term in the bracket by 5: 5 × 2x = 10x and 5 × (−3) = −15. *Why not A:* 10x − 3 multiplies only the first term.
-
-**Item 7: B, 9.** Add the two equations: (x + y) + (x − y) = 14 + 4, so 2x = 18 and x = 9. Then y = 5. Check: 9 + 5 = 14 and 9 − 5 = 4. *Why not A:* 5 is y, not x.
-
-**Item 8: B, 4.2 lb.** One coupling weighs 1.8 ÷ 3 = 0.6 lb. Seven weigh 7 × 0.6 = 4.2 lb.
-
-</details>
-
-**Item 9.** Which values of x make 3x − 4 < 11 true?
-
-A. x < 5 · B. x > 5 · C. x < 7/3 · D. x > 15
-
-**Item 10.** For a 45 degree offset, fitters find the travel (the length along the angled piece) with travel = offset × 1.414. What is the travel for an offset of 10 inches?
+**Item 4.** For a 45 degree offset, fitters find the travel (the length along the angled piece) with travel = offset × 1.414. What is the travel for an offset of 10 inches?
 
 A. 1.414 in · B. 11.414 in · C. 14.14 in · D. 141.4 in
 
-**Item 11.** A pipe rises 5 feet over a horizontal run of 12 feet, forming a right triangle. Using a² + b² = c², how long is the sloping side c?
+**Item 5.** A pipe rises 5 feet over a horizontal run of 12 feet, forming a right triangle. Using a² + b² = c², how long is the sloping side c?
 
 A. 13 ft · B. 17 ft · C. 7 ft · D. 169 ft
 
-**Item 12.** The circumference of a circle is C = π × d. Using π = 3.14, what is the circumference of a pipe with an outside diameter of 4 inches?
-
-A. 7.14 in · B. 12.56 in · C. 25.12 in · D. 50.24 in
-
 <details>
-<summary>Answers and explanations, items 9 to 12</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 9: A, x < 5.** Add 4 to both sides: 3x < 15. Divide by 3, a positive number, so the sign stays the same: x < 5. *Why not B:* the sign only flips when you multiply or divide by a negative number.
+**Item 1: B, 7.** Subtract 9 from both sides: 4x = 28. Divide by 4: x = 7. Check: 4 × 7 + 9 = 37. *Why not D:* 11.5 comes from adding 9 instead of subtracting it (46 ÷ 4).
 
-**Item 10: C, 14.14 in.** 10 × 1.414 = 14.14. Multiplying by 10 moves the decimal point one place to the right. *Why not B:* 11.414 adds the numbers instead of multiplying.
+**Item 2: B, W = A / L.** Divide both sides of A = L × W by L to leave W on its own. Check with numbers: if L = 4 and W = 3, A = 12, and 12 / 4 = 3.
 
-**Item 11: A, 13 ft.** 5² + 12² = 25 + 144 = 169, and the square root of 169 is 13. *Why not D:* 169 is c², not c. *Why not B:* 17 is just 5 + 12, which ignores the triangle.
+**Item 3: B, 9.** Add the two equations: (x + y) + (x − y) = 14 + 4, so 2x = 18 and x = 9. Then y = 5. Check: 9 + 5 = 14 and 9 − 5 = 4. *Why not A:* 5 is y, not x.
 
-**Item 12: B, 12.56 in.** 3.14 × 4 = 12.56. *Why not C:* 25.12 uses the formula for a radius (2 × π × r) with the diameter in place of the radius, which doubles the answer.
+**Item 4: C, 14.14 in.** 10 × 1.414 = 14.14. Multiplying by 10 moves the decimal point one place to the right. *Why not B:* 11.414 adds the numbers instead of multiplying.
+
+**Item 5: A, 13 ft.** 5² + 12² = 25 + 144 = 169, and the square root of 169 is 13. *Why not D:* 169 is c², not c. *Why not B:* 17 is just 5 + 12, which ignores the triangle.
 
 </details>
 
+Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | D | C | B | A | C | B | B | A | C | A | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | B | B | B | C | A |
 
-- **11 to 12:** you have the basics. Keep checking answers by substituting back, which is your best guard against slips under time pressure.
-- **8 to 10:** list the items you missed by type: solving, substituting, rearranging or word problem. Practise that type until you can do five in a row without a miss.
-- **7 or fewer:** start with one-step equations and the order of operations, then add two-step equations. Ten a day for a week makes a real difference.
+- **5 of 5:** you have the basics. Keep checking answers by substituting back, which is your best guard against slips under time pressure.
+- **3 to 4:** list the items you missed by type: solving, substituting, rearranging or word problem. Practise that type until you can do five in a row without a miss.
+- **2 or fewer:** start with one-step equations and the order of operations, then add two-step equations. Ten a day for a week makes a real difference.
 
 ## Next step
 

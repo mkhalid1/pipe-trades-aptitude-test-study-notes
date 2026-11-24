@@ -1,14 +1,14 @@
 # Pipe Trades Aptitude Test Study Notes
 
-A free, complete study guide for the entrance test you take to join a UA plumbing, pipefitting, steamfitting or HVACR apprenticeship. There is no single "UA test": each local chooses its own, from a local math exam to WorkKeys, Wonderlic, Bennett, Accuplacer or an aptitude battery. These notes show you how to find out which one your local uses, then teach the five skills those tests share: arithmetic with fractions and measurements, algebra, reading, mechanical reasoning and spatial reasoning. You get a clear method for each, 75 original practice items with full explanations, what locals actually publish about scoring, and study plans for a week or a weekend. Facts about testing come only from the UA, locals' own pages and state recruitment notices, each one [cited](docs/sources.md).
+A free, complete study guide for the entrance test you take to join a UA plumbing, pipefitting, steamfitting or HVACR apprenticeship. There is no single "UA test": each local chooses its own, from a local math exam to WorkKeys, Wonderlic, Bennett, Accuplacer or an aptitude battery. These notes show you how to find out which one your local uses, then teach the five skills those tests share: arithmetic with fractions and measurements, algebra, reading, mechanical reasoning and spatial reasoning. You get a clear method for each, 34 original practice items with full explanations, what locals actually publish about scoring, and study plans for a week or a weekend. Facts about testing come only from the UA, locals' own pages and state recruitment notices, each one [cited](docs/sources.md).
 
 Want to see where you stand first? Take the [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
 1. **Find out which test your local uses.** Follow the four steps on [which test does my local use](docs/which-test-does-my-local-use.md). It also shows real examples from 15 locals.
-2. **Find your weak skills.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items from each skill area and tells you where to start.
-3. **Fix the weakest skill first.** Open its guide below, learn the method, then do its 12 practice items.
+2. **Find your weak skills.** Take the [15-minute diagnostic](docs/diagnostic.md). It has two items from each skill area and tells you where to start.
+3. **Fix the weakest skill first.** Open its guide below, learn the method, then do its 5 practice items.
 4. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test date is close.
 
 ## Quick facts
@@ -36,7 +36,7 @@ Sources: [UA apprenticeship page](https://ua.org/career-paths/apprentice/), loca
 | Mechanical reasoning | Gears, levers, pulleys, pressure and flow | Bennett, batteries, math plus mechanical exams | [Mechanical](docs/sections/mechanical-reasoning.md) |
 | Spatial reasoning | Folding, rotating, counting blocks, views | Aptitude batteries such as GAN and DAT | [Spatial](docs/sections/spatial-reasoning.md) |
 
-Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 12 original practice items with explanations, and a score table.
+Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations (4 in reading comprehension), and a score table.
 
 ## Contents
 
@@ -174,7 +174,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 
 ## About the practice items
 
-All 75 practice items are original, written for these notes: 12 in each of the five skill guides and 15 in the diagnostic. None are taken from any local's test, any publisher's materials or any prep site. Mechanical and spatial items are described fully in words so that every answer can be checked from the text.
+All 34 practice items are original, written for these notes: 5 in each of four skill guides, 4 in reading comprehension and 10 in the diagnostic. None are taken from any local's test, any publisher's materials or any prep site. Mechanical and spatial items are described fully in words so that every answer can be checked from the text.
 
 ## Related study notes
 

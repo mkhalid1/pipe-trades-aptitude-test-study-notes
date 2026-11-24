@@ -49,7 +49,7 @@ Spend about two minutes reading a passage the first time and 30 to 45 seconds on
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from any local's test, publisher or prep site. Each passage is followed by four questions. Use only the passage to answer.
+These 4 items are original, written for these notes. They are not taken from any local's test, publisher or prep site. The passage is followed by four questions. Use only the passage to answer.
 
 ### Passage 1
 
@@ -86,85 +86,17 @@ A. Arrestors must be drained regularly. · B. Water hammer happens only in older
 
 </details>
 
-### Passage 2
-
-> Pipe gets longer as it warms and shorter as it cools. The change is small over a short length but adds up over distance, and a long run of steel steam pipe heated from room temperature to its working temperature can grow by several inches. If the pipe is held rigidly at both ends, that growth has to go somewhere. It can bend the pipe, crack fittings or pull hangers out of the structure.
->
-> Designers therefore build in ways for the pipe to move. An expansion loop is a U-shaped section that flexes as the straight runs on either side grow. Expansion joints do the same job in less space, but they contain moving parts and need inspection. Guides keep the pipe in line as it moves, while anchors fix it at chosen points so that the movement goes where the designer wants it.
-
-**Item 5.** Which is the best title for the passage?
-
-A. Allowing for Pipe Movement Caused by Heat · B. Why Steam Pipes Leak · C. How to Install Pipe Hangers · D. The History of the Expansion Loop
-
-**Item 6.** According to the passage, what is the job of an anchor?
-
-A. To let the pipe slide freely in any direction · B. To fix the pipe at chosen points so that movement goes where it is wanted · C. To absorb heat from the pipe · D. To keep the pipe in line as it moves
-
-**Item 7.** How do expansion joints compare with expansion loops, according to the passage?
-
-A. Joints need less space but have moving parts that need inspection. · B. Joints need more space but never need inspection. · C. Joints are used only on short runs. · D. Joints stop the pipe from growing.
-
-**Item 8.** As used in the passage, "rigidly" most nearly means:
-
-A. loosely · B. firmly, without allowing movement · C. at an angle · D. for a short time
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: A.** The passage explains that heat makes pipe grow and how designers allow for it. *Why not B:* cracked fittings are one possible result, but leaks are not the subject. *Why not C:* hangers are mentioned only as something that can be pulled out.
-
-**Item 6: B.** Anchors "fix it at chosen points so that the movement goes where the designer wants it". *Why not D:* that is the job of guides. This is the classic trap of mixing up two similar things.
-
-**Item 7: A.** Expansion joints "do the same job in less space, but they contain moving parts and need inspection". *Why not D:* nothing stops the pipe from growing; the joint lets the growth happen safely.
-
-**Item 8: B.** The sentence describes a pipe held at both ends so that its growth "has to go somewhere". That only makes sense if the ends cannot move, so "rigidly" means firmly, without movement.
-
-</details>
-
-### Passage 3
-
-> Before a new section of water piping is covered by drywall, it is pressure tested. On this job the procedure is as follows. First, close the valve that connects the new section to the existing system. Second, fill the new section with water, open the highest fitting to let trapped air escape, then close it. Third, connect the test pump and gauge, and raise the pressure to the test value written on the job sheet. Fourth, close the pump valve and record the gauge reading and the time.
->
-> The section passes if the gauge reading has not dropped after 15 minutes. If it has dropped, check every joint, repair the leak and repeat the test from the third step.
-
-**Item 9.** What is done immediately after the new section is filled with water?
-
-A. The highest fitting is opened to let air out. · B. The test pump is connected. · C. The gauge reading is recorded. · D. The drywall is installed.
-
-**Item 10.** Where does the test pressure value come from?
-
-A. The gauge · B. The existing system · C. The job sheet · D. It is always 15 pounds
-
-**Item 11.** The gauge reading has dropped after 15 minutes, and a leaking joint has been repaired. What is the next step?
-
-A. Close the valve to the existing system. · B. Fill the section with water again from empty. · C. Connect the pump and gauge and raise the pressure to the test value. · D. Record the test as passed.
-
-**Item 12.** Which result would mean the section has failed the test?
-
-A. The gauge reads the same after 15 minutes as when it was recorded. · B. The test took longer than 15 minutes to set up. · C. The highest fitting was opened during filling. · D. The gauge reads lower after 15 minutes than when it was recorded.
-
-<details>
-<summary>Answers and explanations, items 9 to 12</summary>
-
-**Item 9: A.** The second step says to fill the section, then open the highest fitting to let trapped air escape. Connecting the pump is the third step.
-
-**Item 10: C.** The pressure is raised "to the test value written on the job sheet". *Why not D:* 15 is the number of minutes the test runs, not a pressure.
-
-**Item 11: C.** After a repair you "repeat the test from the third step", which is connecting the pump and gauge and raising the pressure. *Why not B:* refilling is the second step, which the procedure does not repeat. This is the "start again" trap.
-
-**Item 12: D.** The section passes only "if the gauge reading has not dropped after 15 minutes". A lower reading is a drop, so it fails. *Why not C:* opening the highest fitting is part of the procedure.
-
-</details>
+Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | D | B | C | A | B | A | B | A | C | C | D |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | B | D | B | C |
 
-- **11 to 12:** strong. Keep your "finger on the sentence" habit and spend your time on weaker areas.
-- **8 to 10:** check which question type you missed. Most misses are inference items (picking something true but unstated) or mixing up two similar things.
-- **7 or fewer:** slow down. Read the questions first, number procedure steps and prove every answer with a sentence. Accuracy first, speed later.
+- **4 of 4:** strong. Keep your "finger on the sentence" habit and spend your time on weaker areas.
+- **3 of 4:** check which question type you missed. Most misses are inference items (picking something true but unstated) or mixing up two similar things.
+- **2 or fewer:** slow down. Read the questions first, number procedure steps and prove every answer with a sentence. Accuracy first, speed later.
 
 ## Next step
 
