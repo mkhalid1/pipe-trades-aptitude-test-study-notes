@@ -33,7 +33,7 @@ Each row below was checked on 24 November 2026 against the page linked. Postings
 | Local 189, Columbus, OH | Applicants "may be required to take a Differential Aptitude Test and Ramsay Aptitude Test or other validated aptitude test administered by a third party testing agency". | [Local 189 JATC posting](https://hirevets.shrm.org/jobs/645cfee2425643001cced15a) |
 | UA Local 43, Chattanooga, TN | ACT WorkKeys (Reading, Math and Locating Information), taken at Chattanooga State. | [UA Local 43 posting](https://hirevets.shrm.org/jobs/688235b033edccc907035501) |
 | Greater Michigan UA Local 190 | A WorkKeys exam, scheduled once documents are in. | [Local 190 JATC posting](https://hirevets.shrm.org/jobs/6320c9077f83a900929073f0) |
-| Pipe Fitters Local 597, Chicago area | "Utilizes a third party testing company to perform aptitude testing." The company sells a study guide, available at the training center. The posting does not name the company. | [Local 597 posting](https://hirevets.shrm.org/jobs/6453d605beb844001c4d0d95) |
+| Pipe Fitters Local 597, Chicago area | The aptitude test is given by a third party testing agency, currently GAN Human Resources, in five sections: Numerical Reasoning, Numerical Comprehension, Spatial Reasoning, Reading and Bennett Mechanical Aptitude. GAN offers a study guide. | [Pipe Fitters Training Fund, Local 597: Testing](https://pftf597.org/applications/testing) |
 
 ## What each test means for your study
 

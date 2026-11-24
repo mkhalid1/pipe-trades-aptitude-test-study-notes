@@ -34,7 +34,7 @@ Every fact in these notes about how locals test comes from the UA, from a local'
 | [Local 189 JATC posting](https://hirevets.shrm.org/jobs/645cfee2425643001cced15a) | Differential Aptitude Test, Ramsay or another validated test |
 | [UA Local 43 posting](https://hirevets.shrm.org/jobs/688235b033edccc907035501) | ACT WorkKeys at Chattanooga State |
 | [Greater Michigan UA Local 190 JATC posting](https://hirevets.shrm.org/jobs/6320c9077f83a900929073f0) | WorkKeys exam |
-| [Pipe Fitters Local 597 posting](https://hirevets.shrm.org/jobs/6453d605beb844001c4d0d95) | Third-party aptitude testing company, study guide available |
+| [Pipe Fitters Training Fund, Local 597: Testing](https://pftf597.org/applications/testing) | Third-party testing agency (currently GAN Human Resources), the five sections, study guide available |
 
 The postings on hirevets.shrm.org are published by each local or its training center on the SHRM Hire Vets job board. Some are more than a year old.
 
