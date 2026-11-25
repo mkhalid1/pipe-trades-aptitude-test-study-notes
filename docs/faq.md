@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)
+<!-- /nav:top -->
 
 # Frequently asked questions
 
@@ -60,4 +62,6 @@ Every section guide in this repo has 5 original practice items with full explana
 
 ---
 
-<!-- nav:bottom -->← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

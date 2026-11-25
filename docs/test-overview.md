@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [Which test does my local use?](which-test-does-my-local-use.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [Which test does my local use?](which-test-does-my-local-use.md)
+<!-- /nav:top -->
 
 # The pipe trades apprenticeship test explained
 
@@ -70,4 +72,6 @@ Reading about a test is not the same as sitting one. When you have worked throug
 
 ---
 
-<!-- nav:bottom -->Next: [Which test does my local use?](which-test-does-my-local-use.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [Which test does my local use?](which-test-does-my-local-use.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

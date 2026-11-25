@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Algebra and formulas](algebra-and-formulas.md) · Next: [Mechanical reasoning](mechanical-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Algebra and formulas](algebra-and-formulas.md) · Next: [Mechanical reasoning](mechanical-reasoning.md)
+<!-- /nav:top -->
 
 # Reading comprehension
 
@@ -104,4 +106,6 @@ Reading under a clock is a different skill from reading at home. Try a timed run
 
 ---
 
-<!-- nav:bottom -->← Previous: [Algebra and formulas](algebra-and-formulas.md) | Next: [Mechanical reasoning](mechanical-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Algebra and formulas](algebra-and-formulas.md) | Next: [Mechanical reasoning](mechanical-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

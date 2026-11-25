@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Spatial reasoning](sections/spatial-reasoning.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Spatial reasoning](sections/spatial-reasoning.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)
+<!-- /nav:top -->
 
 # How scoring works
 
@@ -64,4 +66,6 @@ Retake rules are set locally too. The San Jose training center limits applicants
 
 ---
 
-<!-- nav:bottom -->← Previous: [Spatial reasoning](sections/spatial-reasoning.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Spatial reasoning](sections/spatial-reasoning.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Arithmetic, fractions and measurement](arithmetic-fractions-and-measurement.md) · Next: [Reading comprehension](reading-comprehension.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Arithmetic, fractions and measurement](arithmetic-fractions-and-measurement.md) · Next: [Reading comprehension](reading-comprehension.md)
+<!-- /nav:top -->
 
 # Algebra and formulas
 
@@ -101,4 +103,6 @@ Formulas are easier when you have seen many of them. Try a mixed timed set on th
 
 ---
 
-<!-- nav:bottom -->← Previous: [Arithmetic, fractions and measurement](arithmetic-fractions-and-measurement.md) | Next: [Reading comprehension](reading-comprehension.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Arithmetic, fractions and measurement](arithmetic-fractions-and-measurement.md) | Next: [Reading comprehension](reading-comprehension.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

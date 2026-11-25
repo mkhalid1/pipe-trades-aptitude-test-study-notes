@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Algebra and formulas](algebra-and-formulas.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Algebra and formulas](algebra-and-formulas.md)
+<!-- /nav:top -->
 
 # Arithmetic, fractions and measurement
 
@@ -112,4 +114,6 @@ Fractions feel different against the clock. Try them inside a full timed run wit
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Algebra and formulas](algebra-and-formulas.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Algebra and formulas](algebra-and-formulas.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

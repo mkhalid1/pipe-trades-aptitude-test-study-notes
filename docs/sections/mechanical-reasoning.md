@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Reading comprehension](reading-comprehension.md) · Next: [Spatial reasoning](spatial-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Reading comprehension](reading-comprehension.md) · Next: [Spatial reasoning](spatial-reasoning.md)
+<!-- /nav:top -->
 
 # Mechanical reasoning
 
@@ -111,4 +113,6 @@ Mechanical items on a real test come with pictures. Practise reading them on the
 
 ---
 
-<!-- nav:bottom -->← Previous: [Reading comprehension](reading-comprehension.md) | Next: [Spatial reasoning](spatial-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Reading comprehension](reading-comprehension.md) | Next: [Spatial reasoning](spatial-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Mechanical reasoning](mechanical-reasoning.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Mechanical reasoning](mechanical-reasoning.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Spatial reasoning
 
@@ -98,4 +100,6 @@ Spatial items are much easier to learn with real drawings in front of you. Try t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Mechanical reasoning](mechanical-reasoning.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Mechanical reasoning](mechanical-reasoning.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

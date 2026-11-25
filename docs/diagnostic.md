@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Which test does my local use?](which-test-does-my-local-use.md) · Next: [Arithmetic, fractions and measurement](sections/arithmetic-fractions-and-measurement.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Which test does my local use?](which-test-does-my-local-use.md) · Next: [Arithmetic, fractions and measurement](sections/arithmetic-fractions-and-measurement.md)
+<!-- /nav:top -->
 
 # 15-minute diagnostic
 
@@ -103,4 +105,6 @@ Then weight your plan by the test your local uses. A part you scored low on matt
 
 ---
 
-<!-- nav:bottom -->← Previous: [Which test does my local use?](which-test-does-my-local-use.md) | Next: [Arithmetic, fractions and measurement](sections/arithmetic-fractions-and-measurement.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Which test does my local use?](which-test-does-my-local-use.md) | Next: [Arithmetic, fractions and measurement](sections/arithmetic-fractions-and-measurement.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

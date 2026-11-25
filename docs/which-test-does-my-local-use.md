@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The pipe trades apprenticeship test explained](test-overview.md) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The pipe trades apprenticeship test explained](test-overview.md) · Next: [15-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # Which test does my local use?
 
@@ -57,4 +59,6 @@ When you know which skills your test covers, try the [free timed pipe trades pra
 
 ---
 
-<!-- nav:bottom -->← Previous: [The pipe trades apprenticeship test explained](test-overview.md) | Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The pipe trades apprenticeship test explained](test-overview.md) | Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->
