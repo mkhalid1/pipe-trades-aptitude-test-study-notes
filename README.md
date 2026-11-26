@@ -2,7 +2,7 @@
 
 A free, complete study guide for the entrance test you take to join a UA plumbing, pipefitting, steamfitting or HVACR apprenticeship. There is no single "UA test": each local chooses its own, from a local math exam to WorkKeys, Wonderlic, Bennett, Accuplacer or an aptitude battery. These notes show you how to find out which one your local uses, then teach the five skills those tests share: arithmetic with fractions and measurements, algebra, reading, mechanical reasoning and spatial reasoning. You get a clear method for each, 34 original practice items with full explanations, what locals actually publish about scoring, and study plans for a week or a weekend. Facts about testing come only from the UA, locals' own pages and state recruitment notices, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -169,7 +169,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit to an answer before you open them.
 - **Read every explanation,** including for items you got right. Most say why the most tempting wrong answer is wrong.
 - **Keep a miss log.** For each miss, write what went wrong. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test), teaches the pace.
+- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test), teaches the pace.
 - **Clone or fork it** if you want your own annotated copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

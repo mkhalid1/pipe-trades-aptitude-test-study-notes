@@ -96,7 +96,7 @@ A. 7/8 ft · B. 12 ft · C. 14 ft · D. 16 ft
 
 </details>
 
-Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
+Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
 
 ## Score yourself
 
@@ -110,7 +110,7 @@ Want more? The [free timed pipe trades practice test on PrepClubs](https://prepc
 
 ## Next step
 
-Fractions feel different against the clock. Try them inside a full timed run with the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test), then come back to the traps list for anything you missed.
+Fractions feel different against the clock. Try them inside a full timed run with the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test), then come back to the traps list for anything you missed.
 
 ---
 

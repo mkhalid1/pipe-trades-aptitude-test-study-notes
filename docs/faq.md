@@ -58,7 +58,7 @@ That is set by each local. The San Jose training center allows three attempts in
 
 ## Where can I practise for free?
 
-Every section guide in this repo has 5 original practice items with full explanations (4 in reading comprehension), and the [diagnostic](diagnostic.md) has 10 more. For a timed mixed test, try the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test). If your local names a specific test such as WorkKeys or Bennett, also look for free sample items from that test's own publisher.
+Every section guide in this repo has 5 original practice items with full explanations (4 in reading comprehension), and the [diagnostic](diagnostic.md) has 10 more. For a timed mixed test, try the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test). If your local names a specific test such as WorkKeys or Bennett, also look for free sample items from that test's own publisher.
 
 ---
 

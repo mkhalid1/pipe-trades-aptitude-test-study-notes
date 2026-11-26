@@ -95,7 +95,7 @@ A. 30 rpm · B. 45 rpm · C. 60 rpm · D. 180 rpm
 
 </details>
 
-Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
+Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
 
 ## Score yourself
 
@@ -109,7 +109,7 @@ Want more? The [free timed pipe trades practice test on PrepClubs](https://prepc
 
 ## Next step
 
-Mechanical items on a real test come with pictures. Practise reading them on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test), which includes mechanical items, then come back to the rules table for anything you missed.
+Mechanical items on a real test come with pictures. Practise reading them on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test), which includes mechanical items, then come back to the rules table for anything you missed.
 
 ---
 

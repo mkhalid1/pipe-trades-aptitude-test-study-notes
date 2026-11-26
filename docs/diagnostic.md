@@ -8,7 +8,7 @@ Ten original items, two from each skill area, to show you where to start. Set a 
 
 These items are original, written for these notes. They are not taken from any local's test, publisher or prep site.
 
-If you already know which skills your local tests and want a full picture of your pacing, take the [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test) instead.
+If you already know which skills your local tests and want a full picture of your pacing, take the [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test) instead.
 
 ## Part A: Arithmetic, fractions and measurement
 

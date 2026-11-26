@@ -55,7 +55,7 @@ Prep sites often say "the UA test" has a fixed number of questions, a fixed time
 
 ## Practise once you know
 
-When you know which skills your test covers, try the [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test). It mixes math, reading, mechanical and spatial items, so you can see which parts of a battery slow you down.
+When you know which skills your test covers, try the [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test). It mixes math, reading, mechanical and spatial items, so you can see which parts of a battery slow you down.
 
 ---
 

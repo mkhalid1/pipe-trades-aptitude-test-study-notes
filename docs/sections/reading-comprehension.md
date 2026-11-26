@@ -88,7 +88,7 @@ A. Arrestors must be drained regularly. · B. Water hammer happens only in older
 
 </details>
 
-Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
+Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
 
 ## Score yourself
 
@@ -102,7 +102,7 @@ Want more? The [free timed pipe trades practice test on PrepClubs](https://prepc
 
 ## Next step
 
-Reading under a clock is a different skill from reading at home. Try a timed run on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test) and note whether you run out of time or lose marks to traps.
+Reading under a clock is a different skill from reading at home. Try a timed run on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test) and note whether you run out of time or lose marks to traps.
 
 ---
 

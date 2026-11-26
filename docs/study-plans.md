@@ -17,7 +17,7 @@ If your local's test covers only some skills, for example a math-only exam, skip
 | 3 | Algebra and formulas | Read [algebra and formulas](sections/algebra-and-formulas.md). Do all 5 items. Check every answer by substituting it back. |
 | 4 | Reading | Read [reading comprehension](sections/reading-comprehension.md). Do all 4 items, proving each answer with a sentence from the passage. |
 | 5 | Mechanical and spatial | Read [mechanical reasoning](sections/mechanical-reasoning.md) and [spatial reasoning](sections/spatial-reasoning.md). Learn the mechanical rules table. Fold a paper cube from a cross-shaped net. |
-| 6 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test). Score it by skill. Review every miss with the three questions below. |
+| 6 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test). Score it by skill. Review every miss with the three questions below. |
 | 7 | Fix the weakest skill, then rest | Redo the items you missed this week without looking at the answers. Do 20 fresh items in your weakest skill. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
 
 ### How to review a missed item
@@ -41,7 +41,7 @@ For when the test date is close. Many locals test only once or twice a year, so 
 | 1 | 15 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 30 min | Read the "method" and "traps" parts of the section guides for every skill your local tests. Skip the rest for now. |
 | 3 | 45 min | Do the practice items for your two weakest skills. Read every explanation, including the ones you got right. |
-| 4 | 45 min | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test). |
+| 4 | 45 min | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test). |
 | 5 | 20 min | Review every miss with the three questions above. |
 
 ### Day 2: sharpen and sit the test

@@ -85,7 +85,7 @@ A. 13 ft · B. 17 ft · C. 7 ft · D. 169 ft
 
 </details>
 
-Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
+Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
 
 ## Score yourself
 
@@ -99,7 +99,7 @@ Want more? The [free timed pipe trades practice test on PrepClubs](https://prepc
 
 ## Next step
 
-Formulas are easier when you have seen many of them. Try a mixed timed set on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test), then come back to the traps list for the items you missed.
+Formulas are easier when you have seen many of them. Try a mixed timed set on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test), then come back to the traps list for the items you missed.
 
 ---
 

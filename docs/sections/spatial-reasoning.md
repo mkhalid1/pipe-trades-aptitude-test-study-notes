@@ -82,7 +82,7 @@ A. 6 · B. 9 · C. 13 · D. 14
 
 </details>
 
-Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
+Want more? The [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test) has the full 60 questions in 55 minutes, every answer explained.
 
 ## Score yourself
 
@@ -96,7 +96,7 @@ Want more? The [free timed pipe trades practice test on PrepClubs](https://prepc
 
 ## Next step
 
-Spatial items are much easier to learn with real drawings in front of you. Try the spatial items on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test), then come back to the rules in the method for any type you missed.
+Spatial items are much easier to learn with real drawings in front of you. Try the spatial items on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test), then come back to the rules in the method for any type you missed.
 
 ---
 

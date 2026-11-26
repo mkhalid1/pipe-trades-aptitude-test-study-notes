@@ -46,7 +46,7 @@ Most pipe trades entrance tests are taken in person, at the local's training cen
 
 ## Last practice before the real one
 
-If you have a day or two left, take one timed run on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test), then rest.
+If you have a day or two left, take one timed run on the [free pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test), then rest.
 
 ---
 

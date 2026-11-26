@@ -68,7 +68,7 @@ Work carefully and show your steps on paper. Most of these tests do not allow ca
 
 ## Practise the real format
 
-Reading about a test is not the same as sitting one. When you have worked through the diagnostic, try the [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=pipe-trades-aptitude-test), which mixes math, reading, mechanical and spatial items in one sitting.
+Reading about a test is not the same as sitting one. When you have worked through the diagnostic, try the [free timed pipe trades practice test on PrepClubs](https://prepclubs.com/free-practice-tests/pipefitter-aptitude?utm_source=github&utm_medium=referral&utm_campaign=anh84w&utm_content=pipe-trades-aptitude-test), which mixes math, reading, mechanical and spatial items in one sitting.
 
 ---
 
